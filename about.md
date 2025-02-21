@@ -1,0 +1,2 @@
+foctionnalite du project
+ce project sera compose de plusieurs branche sur lesquel les differents developpeur pouront travaille distintement et a puis nous avous fais un jonction de tous les travaux cepare 
